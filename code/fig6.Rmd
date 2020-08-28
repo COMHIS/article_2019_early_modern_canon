@@ -1,0 +1,21 @@
+```{r fig6_analysis, echo=FALSE, message=FALSE}
+d <- df0 %>% dplyr::filter(first_year_after_death == TRUE) %>% arrange(actor_id) %>% select(actor_id, years_after_death) %>% unique()
+```
+
+
+Median number of years to the first publication after death is `r median(d$years_after_death)`.
+
+Mean number of years to the first publication after death is `r mean(d$years_after_death)`.
+
+For `r round(100 * nrow(subset(d, years_after_death > 100))/nrow(d), 1)`% of the `r length(unique(d$actor_id))` authors
+who were included in this analysis the first posthumous publication appears over 100 years after death.
+
+
+
+
+
+
+
+
+
+

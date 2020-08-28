@@ -1,0 +1,4 @@
+```{r canon_table, echo=FALSE, message=FALSE}
+kable(canon)
+```
+
