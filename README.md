@@ -2,7 +2,7 @@
 
 **DOI:** [10.5281/zenodo.4003897](https://doi.org/10.5281/zenodo.4003897)
 
-**Authors:** [Mikko Tolonen](https://github.com/tolonen), [Mark J. Hill](https://github.com/markjhill), (Ali Zeeshan Ijaz)[https://github.com/AliZeeshanIjaz], (Ville Vaara)[https://github.com/villevaara], (Leo Lahti)[https://github.com/antagomir]
+**Authors:** [Mikko Tolonen](https://github.com/tolonen), [Mark J. Hill](https://github.com/markjhill), [Ali Zeeshan Ijaz](https://github.com/AliZeeshanIjaz), [Ville Vaara](https://github.com/villevaara), [Leo Lahti](https://github.com/antagomir)
 
 This repository is the code supplement to a book section: [Data Visualization in Enlightenment Literature and Culture: CHAPTER 3 - Examining the Early Modern Canon: The English Short Title Catalogue and Large-Scale Patterns of Cultural Production](https://doi.org/10.1007/978-3-030-54913-8_3).
 
